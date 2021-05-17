@@ -37,10 +37,10 @@ import sys
 import time
 from TwitterAPI import TwitterAPI
 
-consumer_key = 'kBvjgHEEyqDEAkwolXXdwzQAc'
-consumer_secret = '2YJjfIhdFAm7II5bg5f3Uj18vRCM31N8b9c4sBZYspqFSFiNgD'
-access_token = '771960687681822722-s5ox0ZYRqo1YIUdjEfwxtg3r9Qr5mzI'
-access_token_secret = 'e18Nnxm89VlHKc9M5gaquzmFdsjnhsgMeXCbxeEyLSGn9'
+consumer_key = ''
+consumer_secret = ''
+access_token = ''
+access_token_secret = ''
 
 
 # This method is done for you. Make sure to put your credentials in the file twitter.cfg.
